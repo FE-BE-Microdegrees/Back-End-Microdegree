@@ -24,6 +24,12 @@ To provide students with a comprehensive overview of server-side application dev
 - Independent work involves solving various tasks related to programming and software development
 - At the end of the course, the student independently creates an application interface that meets the given requirements, using NodeJS and the Express framework.
 
+## Evaluation criteria
+
+- Compliance of the application interface completed as a task with the given requirements
+- Using a code management environment to manage code and documentation
+- Availability and quality of documentation
+
 ## Subjects
 
 - [Software Development](https://github.com/FE-BE-Microdegrees/Subjects/tree/main/Software-Development)
